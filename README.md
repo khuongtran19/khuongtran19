@@ -2,7 +2,7 @@
 My name is **Khuong Tran** and I know a lot of people don't know how to spell my name correctly :pensive: so you can call me **Kevin** :ok_hand:.\
 **I'm currently looking for work in the U.S. It would be nice if around Los Angeles, CA or Reno, NV area.**
 
-You can check out my full [Resume](https://github.com/khuongtran19/khuongtran19/Resume.docx).
+You can check out my full [Resume](https://github.com/khuongtran19/khuongtran19/blob/master/Resume.docx).
 ## I'm Full Stack Developer
 - Frontend: Javascript (React, Redux), HTML, CSS, Bootstrap.
 - Middleware: Node.js, Express.js.
